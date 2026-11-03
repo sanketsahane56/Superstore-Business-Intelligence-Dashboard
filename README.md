@@ -102,7 +102,7 @@ Artificial Intelligence & Data Science
 
 GitHub: [@sanketsahane56](https://github.com/sanketsahane56)
 
-Portfolio: [Visit My Portfolio](https://sanketsahane56.github.io/final-portfolio-/)
+Portfolio: [Visit My Portfolio](https://sanketsahane56.github.io/Sanket-Portfolio/)
 
 ---
 
